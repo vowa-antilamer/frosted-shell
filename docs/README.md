@@ -1,13 +1,14 @@
 # Screenshots
 
-Drop the images here and reference them from the top-level README:
+These are the reference captures for the current configuration, committed
+**exactly as they were taken** — full frame, no cropping, no blur, no metadata
+stripping. They are visual documentation, not sample content.
 
-- `docs/desktop.png`  — panel and dock over a wallpaper
-- `docs/quicksettings.png` — quick settings on glass
-- `docs/calendar.png` — clock / calendar menu
-- `docs/window.png`   — an application window with the effect
+- `screenshots/01.png`
+- `screenshots/02.png`
+- `screenshots/03.png`
+- `screenshots/04.png`
 
-Keep them cropped to the relevant corner so no personal information is
-visible, and strip metadata before committing:
-
-    convert in.png -strip -resize 1600x out.png
+If you add your own, follow the same rule: keep the file byte-identical to the
+capture. Anyone publishing a screenshot should review what is on their own
+screen first — this repository does not edit what it was given.

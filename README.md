@@ -10,7 +10,10 @@ no shell code of its own.
 
 ## What it looks like
 
-*(screenshots below — see `docs/`)*
+![01](docs/screenshots/01.png)
+![02](docs/screenshots/02.png)
+![03](docs/screenshots/03.png)
+![04](docs/screenshots/04.png)
 
 | Surface | What changes |
 | --- | --- |
