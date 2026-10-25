@@ -14,6 +14,7 @@ no shell code of its own.
 ![02](docs/screenshots/02.png)
 ![03](docs/screenshots/03.png)
 ![04](docs/screenshots/04.png)
+![05](docs/screenshots/05.png)
 
 | Surface | What changes |
 | --- | --- |

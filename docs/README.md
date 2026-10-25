@@ -8,6 +8,7 @@ stripping. They are visual documentation, not sample content.
 - `screenshots/02.png`
 - `screenshots/03.png`
 - `screenshots/04.png`
+- `screenshots/05.png`
 
 If you add your own, follow the same rule: keep the file byte-identical to the
 capture. Anyone publishing a screenshot should review what is on their own
