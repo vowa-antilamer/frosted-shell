@@ -1,0 +1,46 @@
+Frosted Shell — third-party components and licensing
+====================================================
+
+This repository is distributed under the GNU General Public License v3.0
+(see LICENSE), because the theme it produces is a derivative work of the
+base theme listed below.
+
+1. Base theme
+-------------
+   Yaru (Yaru-blue-dark), Copyright 2017-2018 Canonical Ltd. and contributors
+   License: GPL-3.0+
+   https://github.com/ubuntu/yaru
+
+   Frosted Shell does not redistribute the base theme. install.sh copies it
+   from the local installation (/usr/share/themes/Yaru-blue-dark) and appends
+   theme/overlay.css to its stylesheet. The resulting file is a derivative
+   work of Yaru and is therefore distributed under the GPL-3.0, not under a
+   more permissive licence. If you redistribute a generated theme, keep the
+   GPL-3.0 terms and this attribution.
+
+2. Rendering engine
+-------------------
+   The translucency, blur and refraction are drawn by a separate GNOME Shell
+   extension, fetched at install time from its own repository and NOT bundled
+   or modified here:
+
+     Liquid Glass — Copyright (c) 2026 Ryosuke Watanabe
+     License: MIT
+     https://github.com/ryohsuke1231/liquid-glass
+
+   Only a settings snapshot for that extension is included
+   (config/effects.dconf). The MIT licence and copyright notice of the
+   upstream project apply to its code; this repository does not relicense it.
+
+3. Icons, fonts and wallpapers
+------------------------------
+   None are redistributed. The theme references the icon and cursor themes
+   already installed on the system (Yaru-blue, Adwaita).
+
+4. Trademarks
+-------------
+   This is an independent community project. It is not affiliated with,
+   endorsed by, or sponsored by any hardware or software vendor. All product
+   and company names mentioned in this repository remain the property of
+   their respective owners. The project intentionally avoids vendor-specific
+   product names in its own name and branding.

@@ -1,0 +1,4 @@
+*.png
+!docs/*.png
+*.bak
+.DS_Store

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Frosted Shell
+Type=X-GNOME-Metatheme
+Comment=Translucent frosted surfaces for GNOME Shell
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Yaru-blue-dark
+MetacityTheme=Yaru-dark
+IconTheme=Yaru-blue
+CursorTheme=Adwaita
+CursorSize=24
